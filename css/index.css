@@ -305,25 +305,25 @@ input{
 }
 .table tr td{
   width: 25%;
-  font:400 .18rem "microsoft yahei";
+  font:400 .16rem "microsoft yahei";
   color:#5d3d00;
   padding: .05rem;
    border:1px solid #5d3d00;
 }
-.tab2_table tr td:nth-child(1){
+.tab2_table tr td.td1{
   width: 10%;
 }
-.tab2_table tr td:nth-child(2){
-  width: 10%;
+.tab2_table tr td.td2{
+  width: 5%;
 }
-.tab2_table tr td:nth-child(3){
+.tab2_table tr td.td3{
   width: 20%;
 }
-.tab2_table tr td:nth-child(4){
+.tab2_table tr td.td4{
   width: 15%;
 }
-.tab2_table tr td:nth-child(5){
-  width: 45%;
+.tab2_table tr td.td5{
+  width: 50%;
 }
 .table .time{
 background: #00677f;
